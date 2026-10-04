@@ -244,5 +244,5 @@ cout << fact(fact, 5);   // 120
 ---
 
 <p align="center">
-  <a href="./Lesson_1_Iterators.md">← Previous: Lesson 1, Iterators</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_1_Iterators.md">← Previous: Lesson 1, Iterators</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_3_Comparators.md">Next: Lesson 3, Comparators →</a>
 </p>
