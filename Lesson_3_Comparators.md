@@ -311,5 +311,5 @@ You don't need to write these, but you'll meet them in editorials and other peop
 ---
 
 <p align="center">
-  <a href="./Lesson_2_Lambdas.md">← Previous: Lesson 2, Lambdas</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_2_Lambdas.md">← Previous: Lesson 2, Lambdas</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_4_Pair_Tuple.md">Next: Lesson 4, pair and tuple →</a>
 </p>
