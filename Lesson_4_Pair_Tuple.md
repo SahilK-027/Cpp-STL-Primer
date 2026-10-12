@@ -199,5 +199,5 @@ In an interview, a `struct` with named fields is usually clearer than a `tuple`.
 ---
 
 <p align="center">
-  <a href="./Lesson_3_Comparators.md">← Previous: Lesson 3, Comparators</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_3_Comparators.md">← Previous: Lesson 3, Comparators</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_5_Vector_String.md">Next: Lesson 5, vector and string →</a>
 </p>
