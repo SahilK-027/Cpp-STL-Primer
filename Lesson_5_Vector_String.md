@@ -334,5 +334,5 @@ Use it to pass parts of a string to a function without copying them.
 ---
 
 <p align="center">
-  <a href="./Lesson_4_Pair_Tuple.md">← Previous: Lesson 4, pair and tuple</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_4_Pair_Tuple.md">← Previous: Lesson 4, pair and tuple</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_6_Set_Map.md">Next: Lesson 6, set, multiset, map, multimap →</a>
 </p>
