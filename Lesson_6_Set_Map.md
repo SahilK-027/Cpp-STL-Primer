@@ -225,8 +225,8 @@ So you can keep an iterator to an element while inserting others, which you can'
 |---|---|---|
 | sorted order, min/max, or neighbours (`lower_bound`) | `set` / `map` | only the tree keeps elements sorted |
 | only "is it there?" or counts | `unordered_set` / `unordered_map` | O(1) on average, vs O(log n) |
-| `pair` or `vector` as the key | `set` / `map` | they only need `<`; unordered ones need a custom hash (Lesson 7) |
-| guaranteed worst-case time | `set` / `map` | unordered containers can degrade to O(n) per operation on adversarial input (Lesson 7) |
+| `pair` or `vector` as the key | `set` / `map` | they only need `<`; unordered ones need a custom hash ([Lesson 7](./Lesson_7_Unordered_Map_Set.md#how-do-you-use-pair-or-struct-keys)) |
+| guaranteed worst-case time | `set` / `map` | unordered containers can degrade to O(n) per operation on adversarial input ([Lesson 7](./Lesson_7_Unordered_Map_Set.md#why-can-it-tle-in-contests-cp-only)) |
 
 In interviews, `unordered_map` is the usual default for plain lookups. In contests, `map` is often the safer default, because of anti-hash tests.
 
@@ -247,5 +247,5 @@ In interviews, `unordered_map` is the usual default for plain lookups. In contes
 ---
 
 <p align="center">
-  <a href="./Lesson_5_Vector_String.md">← Previous: Lesson 5, vector and string</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_5_Vector_String.md">← Previous: Lesson 5, vector and string</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_7_Unordered_Map_Set.md">Next: Lesson 7, unordered_map and unordered_set →</a>
 </p>
