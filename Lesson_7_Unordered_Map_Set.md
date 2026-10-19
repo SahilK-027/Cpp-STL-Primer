@@ -386,5 +386,5 @@ The three containers so far, side by side:
 ---
 
 <p align="center">
-  <a href="./Lesson_6_Set_Map.md">← Previous: Lesson 6, set, multiset, map, multimap</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_6_Set_Map.md">← Previous: Lesson 6, set, multiset, map, multimap</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_8_Priority_Queue.md">Next: Lesson 8, priority_queue and heaps →</a>
 </p>
