@@ -262,5 +262,5 @@ Each `add` is O(log n), and `median` is O(1). This is a classic interview questi
 ---
 
 <p align="center">
-  <a href="./Lesson_7_Unordered_Map_Set.md">← Previous: Lesson 7, unordered_map and unordered_set</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_7_Unordered_Map_Set.md">← Previous: Lesson 7, unordered_map and unordered_set</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_9_Deque_Bitset.md">Next: Lesson 9, deque and bitset →</a>
 </p>
