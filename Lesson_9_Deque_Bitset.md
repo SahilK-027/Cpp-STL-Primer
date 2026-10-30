@@ -234,5 +234,5 @@ That's **O(n · S / 64)** for n numbers and maximum sum S, about 64× faster tha
 ---
 
 <p align="center">
-  <a href="./Lesson_8_Priority_Queue.md">← Previous: Lesson 8, priority_queue and heaps</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_8_Priority_Queue.md">← Previous: Lesson 8, priority_queue and heaps</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_10_Sorting.md">Next: Lesson 10, the sorting family →</a>
 </p>
