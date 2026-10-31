@@ -216,5 +216,5 @@ When in doubt, `sort` is almost always fast enough: 10⁶ elements take well und
 ---
 
 <p align="center">
-  <a href="./Lesson_9_Deque_Bitset.md">← Previous: Lesson 9, deque and bitset</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_9_Deque_Bitset.md">← Previous: Lesson 9, deque and bitset</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_11_Binary_Search.md">Next: Lesson 11, the binary search family →</a>
 </p>
