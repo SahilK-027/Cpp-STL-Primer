@@ -250,5 +250,5 @@ Example: the smallest k with `k * k >= n` uses `works(k) = (k * k >= n)`. The sa
 ---
 
 <p align="center">
-  <a href="./Lesson_10_Sorting.md">← Previous: Lesson 10, the sorting family</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_10_Sorting.md">← Previous: Lesson 10, the sorting family</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_12_Numeric_Overflow.md">Next: Lesson 12, numeric tools and overflow →</a>
 </p>
