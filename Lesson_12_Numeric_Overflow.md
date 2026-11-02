@@ -254,5 +254,5 @@ Keep `m` below about 3 × 10⁹, so that `b * b` still fits in a `long long` (10
 ---
 
 <p align="center">
-  <a href="./Lesson_11_Binary_Search.md">← Previous: Lesson 11, the binary search family</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_11_Binary_Search.md">← Previous: Lesson 11, the binary search family</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_13_Manipulation_Algorithms.md">Next: Lesson 13, manipulation algorithms →</a>
 </p>
