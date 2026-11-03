@@ -284,5 +284,5 @@ for (int i = 0; i < (int)a.size(); i++)
 ---
 
 <p align="center">
-  <a href="./Lesson_12_Numeric_Overflow.md">← Previous: Lesson 12, numeric tools and overflow</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a>
+  <a href="./Lesson_12_Numeric_Overflow.md">← Previous: Lesson 12, numeric tools and overflow</a> &nbsp;·&nbsp; <a href="./README.md">↑ Contents</a> &nbsp;·&nbsp; <a href="./Lesson_14_Pitfall_Review.md">Next: Lesson 14, pitfall review →</a>
 </p>
